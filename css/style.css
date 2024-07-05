@@ -1,0 +1,52 @@
+body{
+    background-color: rgba(255, 228, 196, 0.418);
+    color: rgba(71, 4, 4, 0.469);
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 600;
+    
+}
+h1{
+    margin-block: 70px;
+    font-weight: bolder;
+    font-style:normal;
+    font-family:Arial, Helvetica, sans-serif;
+    text-shadow: 6px 6px 6px rgba(3, 2, 2, 0.443);
+}
+.logo{
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.main-p{
+    padding-top: 50px;
+    font-size: 30px;
+    line-height: 70px;
+}
+
+.image{
+    box-shadow: 6px 6px 6px rgb(3, 2, 2);
+}
+
+h2{
+    text-shadow: 6px 6px 6px rgba(3, 2, 2, 0.443);
+}
+
+.harry , .hermione , .Ron{
+    height: 300px
+}
+.span{
+    text-shadow: 6px 6px 6px rgba(3, 2, 2, 0.65);
+    font-size: 100px;
+    font-weight: 200;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+} 
+
+.hehe{
+    background-color: rgba(251, 219, 179, 0.189) ;
+    color: rgba(71, 4, 4, 0.469);
+    box-shadow: 6px 6px 6px rgb(3, 2, 2);
+}
+.ph{
+    box-shadow: 6px 0px 6px rgba(3, 2, 2, 0.23);
+}
